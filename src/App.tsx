@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <div className="App">Test code</div>;
+  return <div className="App">Testing code - (thomas)</div>;
 }
 
 export default App;
